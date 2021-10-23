@@ -1,2 +1,2 @@
 # Spam-Emails
-Send Multiple Emails At Once
+Send Multiple Emails With Attachments At Once Using Python built-in modules
