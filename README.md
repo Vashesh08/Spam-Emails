@@ -1,2 +1,3 @@
 # Spam-Emails
-Send Multiple Emails With Attachments At Once Using Python built-in modules
+Send Multiple Emails With Attachments(pdf/png) Using Python built-in modules
+Email list in csv format.
